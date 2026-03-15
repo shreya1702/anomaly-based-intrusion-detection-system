@@ -12,3 +12,12 @@ Dataset includes:
 
 Dataset can be provided upon request.
 
+## Output Screenshots
+Screenshots demonstrating the real-time anomaly detection, packet capture, and alert generation are available in the project repository.
+
+These include:
+- Live packet capture output
+- Anomaly detection alerts
+- Network traffic log results
+
+
